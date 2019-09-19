@@ -1,0 +1,7 @@
+Contacts: BennyStonebraker,RL32nd,JoyaLen4,LoKoth654,MaPerr11,FranNapoles,DMarquez,CammieShake,EugHeer78,Cindeey,
+Average number of sent messages is: 186.1
+Average number of received messages is: 237.0
+Individual with the most meassage sent was: DMarquez
+Individual with the most meassage received was: Cindeey
+Individual with the least meassage sent was: FranNapoles
+Individual with the least meassage received was: FranNapoles
